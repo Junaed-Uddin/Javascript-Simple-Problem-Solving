@@ -2,6 +2,10 @@
 Find the prime number in the array and sort those ascending order
 */
 const numbers = [2, 37, 1, 19, 5, -1, 0, 67, 13, 11, 23];
+// numbers.sort(function (a, b) {
+//     return a - b;
+// })
+// console.log(numbers);
 
 // sort the array 
 function getSortNumbers(numbers) {
